@@ -6,6 +6,11 @@
 Our app was a Mystery Number Challenge game created with React Native using the coding language of Typescript.  The game had to enable the user to enter a random number between 1 and 100. The user is expected to enter their guess.  After entering the guess the user should click the button in order to see if it displays the correct result.  
 
 # Design Considerations 
+The app was designed with an easy-to-nagivate user interface which offers the user a smooth and inituitive user experience.   
+It was designed in a way that it's able to function on different screen sizes without giving any issues.   
+It is compatible on different sizes. 
+The design of the app is simple, without any complexies that overwhelm the user.  
+
 
 
 # Feautures
